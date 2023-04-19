@@ -1,0 +1,76 @@
+{
+  "clientes": [
+    {
+      "informacoes": {
+        "nome": "Bruno",
+        "sexo": "Masculino",
+        "idade": "98",
+        "altura": "98",
+        "peso": "98",
+        "mlg": "98",
+        "data": "8788-07-08"
+      },
+      "id": 1
+    },
+    {
+      "informacoes": {
+        "nome": "Bruno",
+        "sexo": "Masculino",
+        "idade": "75",
+        "altura": "757",
+        "peso": "75",
+        "mlg": "57",
+        "data": "0075-05-07"
+      },
+      "id": 4
+    },
+    {
+      "informacoes": {
+        "nome": "Bruno",
+        "sexo": "Masculino",
+        "idade": "09",
+        "altura": "09",
+        "peso": "09",
+        "mlg": "9",
+        "data": null
+      },
+      "id": 6
+    },
+    {
+      "informacoes": {
+        "nome": "Bruno",
+        "sexo": "Masculino",
+        "idade": "98",
+        "altura": "09",
+        "peso": "98",
+        "mlg": "09",
+        "data": null
+      },
+      "id": 7
+    },
+    {
+      "informacoes": {
+        "nome": "Bruno",
+        "sexo": "Masculino",
+        "idade": "98",
+        "altura": "98",
+        "peso": "98",
+        "mlg": "98",
+        "data": "0098-09-08"
+      },
+      "id": 8
+    },
+    {
+      "informacoes": {
+        "nome": "Maria",
+        "sexo": "Feminino",
+        "idade": "30",
+        "altura": "98",
+        "peso": "98",
+        "mlg": "98",
+        "data": "0089-09-08"
+      },
+      "id": 9
+    }
+  ]
+}
